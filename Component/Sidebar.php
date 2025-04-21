@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="../css/style.css">
+<link rel="stylesheet" href="/css/styles.css">
 </head>
 <!------------------------- Start Page -->
 <body>
@@ -8,14 +8,14 @@
             <ul class="nav sidebar-nav">
                 <div class="sidebar-header">
                     <div class="sidebar-brand">
-                        <a href="/web">Bed0Xploit</a>
+                        <a href="/Bed0Xploit">Bed0Xploit</a>
                     </div>
                 </div>
-                <li><a href="/web">Home</a></li>
-                <li><a href="/web/Web_Application">Web Application</a></li>
-                <li><a href="/recon">Reconnaissance</a></li>
-                <li><a href="/web/xss">XSS</a></li>
-                <li><a href="/web/xss">Sql</a></li>
+                <li><a href="/Bed0Xploit">Home</a></li>
+                <li><a href="/webBed0Xploit/Web_Application">Web Application</a></li>
+                <li><a href="/Bed0Xploit">Reconnaissance</a></li>
+                <li><a href="/Bed0Xploit/">XSS</a></li>
+                <li><a href="/Bed0Xploit/">Sql</a></li>
                 <li class="dropdown">
                     <a href="#works" class="dropdown-toggle" data-toggle="dropdown">Works <span
                             class="caret"></span></a>
@@ -29,4 +29,4 @@
                     </ul>
                 </li>
             </ul>
-        </nav>
+        </nav>

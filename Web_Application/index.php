@@ -1,7 +1,7 @@
-<?php require '../Component/header.php' ?>
+<?php require '/var/www/html/Bed0Xploit/Component/header.php' ?>
 <link rel="stylesheet" href="../css/style.css">
 <link rel="stylesheet" href="./style.css">
-<?php require '../Component/sidebar.php' ?>
+<?php require '/var/www/html/Bed0Xploit/Component/Sidebar.php' ?>
 
 <!-- Page Content -->
 <div id="page-content-wrapper">
@@ -304,4 +304,5 @@
 </div><!-- /#page-content-wrapper -->
 
 
-<?php require '../Component/footer.php' ?>
+<?php require '/var/www/html/Bed0Xploit/Component/footer.php' ?>
+
