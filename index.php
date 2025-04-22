@@ -30,9 +30,10 @@
                 <li><a href="/Bed0Xploit">Home</a></li>
                 <li><a href="/Bed0Xploit/Web_Application">Web Application</a></li>
                 <li><a href="/Bed0Xploit">Reconnaissance</a></li>
-                <li><a href="/Bed0Xploit/">XSS</a></li>
-                <li><a href="/Bed0Xploit/">Sql</a></li>
-                <li class="dropdown">
+                <li><a href="/Bed0Xploit/xss">XSS</a></li>
+                <li><a href="/Bed0Xploit/xss">Sql</a></li>
+                <li><a href="/Bed0Xploit/follow_me">Follow Me</a></li>
+                <!-- <li class="dropdown">
                     <a href="#works" class="dropdown-toggle" data-toggle="dropdown">Works <span
                             class="caret"></span></a>
                     <ul class="dropdown-menu animated fadeInLeft" role="menu">
@@ -43,7 +44,7 @@
                         <li><a href="#art">Art</a></li>
                         <li><a href="#awards">Awards</a></li>
                     </ul>
-                </li>
+                </li> -->
             </ul>
         </nav>
         <!-- `Page Content -->
@@ -58,35 +59,15 @@
                     <div style="width: 100%;">
                         <div class="text-center">
                             <h1 class="mb-3">👋 أهلاً بيك في <span class="colored_green_b">Bed0Xploit</span></h1>
-                            <p class="lead">
-                                هنا هتبدأ رحلتك في عالم <span class="colored_red">اختبار اخترا الويب</span> وتتعلم كل حاجة من الصفر لحد ما تبقى محترف.
-                            </p>
+                            <div class="p-4 rounded-4 shadow-sm text-center" style="background: #e2e8f0;">
+                                <blockquote class="blockquote mt-2">
+                                    <p class="fs-5 fst-italic">"Keep learning, keep breaking, and never stop exploring the unknown."</p>
+                                    <footer class="blockquote-footer mt-2">Cyber World Wisdom</footer>
+                                </blockquote>
+                            </div>
                         </div>
                     </div>
                 </div>
-                
-                <div class="row block mb-3" style="" dir="rtl">
-                    <div style="width: 100%;">
-                        <div class="text-center">
-                            <h1 class="mb-3">👋 أهلاً بيك في <span class="colored_green_b">Bed0Xploit</span></h1>
-                            <p class="lead">
-                                هنا هتبدأ رحلتك في عالم <span class="colored_red">اختبار اخترا الويب</span> وتتعلم كل حاجة من الصفر لحد ما تبقى محترف.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="row block mb-3" style="" dir="rtl">
-                    <div style="width: 100%;">
-                        <div class="text-center">
-                            <h1 class="mb-3">👋 أهلاً بيك في <span class="colored_green_b">Bed0Xploit</span></h1>
-                            <p class="lead">
-                                هنا هتبدأ رحلتك في عالم <span class="colored_red">اختبار اخترا الويب</span> وتتعلم كل حاجة من الصفر لحد ما تبقى محترف.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-
             </div>
         </div>
         <!-- /#page-content-wrapper -->
@@ -96,4 +77,4 @@
         <script src="./js/script.js"></script>
 </body>
 
-</html>
+</html>

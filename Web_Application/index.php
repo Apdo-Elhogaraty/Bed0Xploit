@@ -1,7 +1,8 @@
 <?php require '/var/www/html/Bed0Xploit/Component/header.php' ?>
 <link rel="stylesheet" href="../css/style.css">
 <link rel="stylesheet" href="./style.css">
-<?php require '/var/www/html/Bed0Xploit/Component/Sidebar.php' ?>
+<?php require '/var/www/html/Bed0Xploit/Component/sidebar.php' ?>
+
 
 <!-- Page Content -->
 <div id="page-content-wrapper">
@@ -32,7 +33,7 @@
                     <li>Session Management and HTTP Cookies</li>
                     <li>Token-Based Authentication</li>
                     <li>The Same-Origin Policy</li>
-                    <li>ENVIRONMENTAL SETUP AND TRAFFIC I NTERCEPTION (مهم ولازم توصلة)</li>
+                    <li>ENVIRONMENTAL SETUP AND TRAFFIC INTERCEPTION (مهم ولازم توصلة)</li>
                 </ol>
                 ركز معانا في كل جزئية، لأن دي الأساس اللي هينقلك من مبتدئ لشخص فاهم وعارف بيعمل إيه في أي مرحلة من مراحل التعامل مع الويب.
                 </p>
@@ -83,25 +84,25 @@
 
                 <hr>
                 <mark class="m">مصادر اضافية تذاكر منها : </mark><br><br>
-                <span class="colored_green_b">فيديو : </span><a href="https://www.youtube.com/watch?v=vwvPFuh7ZDs&ab_channel=%D8%A3%D8%AD%D9%85%D8%AF%D9%85%D8%AD%D9%85%D9%88%D8%AF%7C%7CAhmedMahmoud">
+                <span class="colored_green_b">فيديو : </span><a href="https://www.youtube.com/watch?v=vwvPFuh7ZDs&ab_channel=%D8%A3%D8%AD%D9%85%D8%AF%D9%85%D8%AD%D9%85%D9%88%D8%AF%7C%7CAhmedMahmoud" target="_blank">
                     الفرق بين Front end و Back end</a><br><br>
                 <strong>معلش بقا هتتعب حبتين .. في حاجة نسيت اقلك عليها انك عشان تخترق الحاجة لازم تكون عارف الحاجة دى شغالة ازاى ا صلا ف عشان كدا لازم نبنى web application حتى لو بسيط وبعدين نكمل: </strong><br><br>
-                <span class="colored_green_b">فيديو للباشمهندس اسامة الزيرو Html: </span><a href="https://www.youtube.com/watch?v=qfPUMV9J5yw&ab_channel=ElzeroWebSchool">
+                <span class="colored_green_b">فيديو للباشمهندس اسامة الزيرو Html: </span><a href="https://www.youtube.com/watch?v=qfPUMV9J5yw&ab_channel=ElzeroWebSchool" target="_blank">
                     تعلم HTML في 2022 في فيديو واحد
                 </a><br>
                 <span class="colored_green_b">JavaScript في فيديو واحد مقسم لجزئين (ودى مهمة جدا) : </span>
-                <a href="https://www.youtube.com/watch?v=gIGGhFlGgLI&ab_channel=ElzeroWebSchool">
+                <a href="https://www.youtube.com/watch?v=gIGGhFlGgLI&ab_channel=ElzeroWebSchool" target="_blank">
                 الجزء الأول 
                 </a>
                 <span>  -  </span>
-                <a href="https://www.youtube.com/watch?v=FKrfis1W1tk&ab_channel=ElzeroWebSchool">
+                <a href="https://www.youtube.com/watch?v=FKrfis1W1tk&ab_channel=ElzeroWebSchool" target="_blank">
                     الجزء التانى
                 </a>
                 <span class="colored_blue_b">"لو حبيت تكتفى بالجزء الاول بس تمام اووى برضو .."</span><br>
                 <span class="colored_green_b">بالنسـبة بقا لكورسات الphp ودى بتتعلمها عشان الBackend ا:</span>
-                <a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq">PHP Bootcamp 2022</a><br>
+                <a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq" target="_blank">PHP Bootcamp 2022</a><br>
                 <span class="colored_green_b">اما بالنسـبة لل Database ف عندك كورس SQL دا : </span>
-                <a href="https://www.youtube.com/playlist?list=PLDRMxi70CdSAhaQZzkR1uyNsMOezEChMA">SQL | Crash Course (Arabic)</a><br><br>
+                <a href="https://www.youtube.com/playlist?list=PLDRMxi70CdSAhaQZzkR1uyNsMOezEChMA" target="_blank">SQL | Crash Course (Arabic)</a><br><br>
                 <span class="colored_red_b">حاجة بقا مهم اوى تعرفها مش عايزك تضيع وقت كبير فيهم ومش لازم تحسس نفسك انك مبرمج خد الاساسيات في حجات كتير مش مهم تعرفها والسؤال هنا "اعرف انـا كدا بقيت تمام ازاى ؟" <span class="colored_blue_b">تعرف انك تمام لما تعمل تطبيقين او تلاتة فرونت ايند وباك اند لوحدك ودة فيديو لاول مشروع : <a href="https://www.youtube.com/watch?v=8-HKJdQDrtw&pp=ygUg2KrYt9io2YrZgtin2KogYmFja2VuZCBwaHAgbXlzcWw%3D"> مشروع ادارة طلاب بسيط  - لوحة تحكم مع عرض بيانات بالكامل</a></span></span></span>
             </div>
         </div>
@@ -294,7 +295,7 @@
 
                 <hr>
                 <mark class="m">مصادر اضافية تذاكر منها : </mark><br><br>
-                <span class="colored_green_b">شرح اداة BurpSuite ونقدر نقول ان دى هتبقا ايدك ورجلك لان شغلك كله عليها :  <a href="https://www.youtube.com/playlist?list=PL4S940IsHJYV5gFmhh8vNqTbeUFqDktSh">BurpSuite Arabic Tutorials
+                <span class="colored_green_b">شرح اداة BurpSuite ونقدر نقول ان دى هتبقا ايدك ورجلك لان شغلك كله عليها :  <a href="https://www.youtube.com/playlist?list=PL4S940IsHJYV5gFmhh8vNqTbeUFqDktSh"target="_blank">BurpSuite Arabic Tutorials
                 </a></span>
             </div>
         </div>
