@@ -2,6 +2,7 @@
 
 
 sudo apt update
+
 sudo apt install apache2 php libapache2-mod-php -y
 
 sudo cp -r /مسار-المشروع /var/www/html/
