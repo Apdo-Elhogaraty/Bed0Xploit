@@ -1,5 +1,6 @@
 # Bed0Xploit
 
+git clone https://github.com/Apdo-Elhogaraty/Bed0Xploit.git
 
 sudo apt update
 
