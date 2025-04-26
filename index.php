@@ -13,7 +13,6 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
     <link rel="stylesheet" href="./css/style.css">
-    <link rel="stylesheet" href="./Web_Application/style.css">
 </head>
 <!------------------------- Start Page -->
 
@@ -29,7 +28,7 @@
                 </div>
                 <li><a href="/Bed0Xploit">Home</a></li>
                 <li><a href="/Bed0Xploit/Web_Application">Web Application</a></li>
-                <li><a href="/Bed0Xploit">Reconnaissance</a></li>
+                <li><a href="/Bed0Xploit/recon">Reconnaissance</a></li>
                 <li><a href="/Bed0Xploit/xss">XSS</a></li>
                 <li><a href="/Bed0Xploit/xss">Sql</a></li>
                 <li><a href="/Bed0Xploit/follow_me">Follow Me</a></li>
